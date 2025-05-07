@@ -9,6 +9,7 @@
 - ⚡ Fun fact **I think I am funny 😁**
 
 <h3 align="left">Connect with me:</h3>
+<p>keyurdhanani34087@gmail.com</p>
 <p align="left">
 <a href="https://fb.com/keyur dhanani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="keyur dhanani" height="30" width="40" /></a>
 <a href="https://instagram.com/keyur_dhanani_269" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="keyur_dhanani_269" height="30" width="40" /></a>
