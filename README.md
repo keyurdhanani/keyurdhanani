@@ -1,3 +1,4 @@
+<img align = "center" alt = "coding"  src = "https://github.com/keyurdhanani/keyurdhanani/blob/main/github-header-image%20(2).png">
 <h1 align="center">Hi 👋, I'm Keyur Dhanani</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align = "right" alt = "coding" width = "400" src = "https://github.com/keyurdhanani/keyurdhanani/blob/main/Ry6p.gif">
