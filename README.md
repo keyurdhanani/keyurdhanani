@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Keyur Dhanani</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align = "right" alt = "coding" width = "400" src = "">
+<img align = "right" alt = "coding" width = "400" src = "https://github.com/keyurdhanani/keyurdhanani/blob/main/Ry6p.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=keyurdhanani&label=Profile%20views&color=0e75b6&style=flat" alt="keyurdhanani" /> </p>
 
 - 🌱 I’m currently learning **python, Machine Learning**
